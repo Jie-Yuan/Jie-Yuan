@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <div align="center">
   <p>
 
-  <a href="https://github.com/Jie-Yuan">
+  <a href="https://github.com/yuanjie-ai">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Jie-Yuan&show_icons=true&theme=default&hide=contribs,issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuanjie-ai&show_icons=true&theme=default&hide=contribs,issues" />
 
   </a>
   
